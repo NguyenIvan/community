@@ -1,4 +1,4 @@
-## Project Name MyWorld<!-- Add your project name here with format "Project Name"-->
+## Project Name: [MyWorld](https://myw.art)<!-- Add your project name here with format "Project Name"-->
 
 ## Category 
 <!--developer tooling, application, wallet, infrastructure, etc-->
@@ -51,7 +51,7 @@ https://github.com/NguyenIvan/MyWorld/
 
 ## Website
 <!--Link your website if available-->
-https://myw.art
+[myw.art](https://myw.art)
 
 ## Docs
 <!--Including a link to your project docs!-->
