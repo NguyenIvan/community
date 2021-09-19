@@ -46,7 +46,7 @@ https://github.com/NguyenIvan/MyWorld/
 
 ## Website
 <!--Link your website if available-->
-https://mywnft.github.io
+https://myw.art
 
 ## Docs
 <!--Including a link to your project docs!-->
