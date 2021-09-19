@@ -15,20 +15,25 @@ We are in beta with a functional product running on Flow testnet.
 
 ## Previews
 <!--Add some screenshots to give a preview of your product-->
-1. Welcome Screen
-    ![Screen 1](https://mywnft.github.io/shot/sign-in.png)
+Welcome Screen
+    <br/><br/>
+    <img src="https://mywnft.github.io/shot/sign-in.png" width="150" height="100" /> 
 
-2. Home Screen
-    ![Screen 2](https://mywnft.github.io/shot/home.png)    
+Home Screen
+    <br/><br/>
+    <img src="https://mywnft.github.io/shot/home.png" width="150" height="100" /> 
 
-3. Upload Image to IPFS
-    ![Screen 3](https://mywnft.github.io/shot/upload-mint.png)
+Upload Image to IPFS
+    <br/><br/>
+    <img src="https://mywnft.github.io/shot/upload-mint.png" width="150" height="100" /> 
 
-4. Mint NFT
-    ![Screen 4](https://mywnft.github.io/shot/success.png)
+Mint NFT
+    <br/><br/>
+    <img src="https://mywnft.github.io/shot/success.png" width="150" height="100" /> 
 
-4. NFT Gallery
-    ![Screen 5](https://mywnft.github.io/shot/gallery.png)
+NFT Gallery
+    <br/><br/>
+    <img src="https://mywnft.github.io/shot/gallery.png" width="150" height="100" /> 
 
 ## Target Audience
 <!--Describe who will be your project's users-->
