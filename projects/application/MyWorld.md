@@ -42,7 +42,7 @@ Autism Musicians
 
 ## Rough estimated user base (if applicable)
 <!--How many users do you have right now?-->
-We are opening to our community soon
+We are opening to our community very soon.
 
 ## Github repo
 <!--Attach a link to your GitHub repo if it's OSS-->
